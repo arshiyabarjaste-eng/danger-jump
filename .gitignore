@@ -1,0 +1,12 @@
+# Godot 4
+.godot/
+*.translation
+
+# Export builds
+build/
+export/
+*.apk
+*.aab
+
+# System
+.DS_Store
